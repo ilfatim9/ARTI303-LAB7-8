@@ -24,4 +24,4 @@ List = [1, 2, 3, 4, 5].
 69 ?- add_at_the_end(d, [a,b,c], List).
 List = [a, b, c, d].
 
-70 ?- 
+
