@@ -23,5 +23,37 @@ List = [1, 2, 3, 4, 5].
 
 69 ?- add_at_the_end(d, [a,b,c], List).
 List = [a, b, c, d].
+73 ?- shopping.
+Lab activity
+** SHOPPING LIST **
+d. display all items.
+a. Add an item to the list.
+e. exit.
+ENTER YOUR CHOICE .
+|: d.
+coffee
+milk
+chocolate
+apple
+juice
+
+** SHOPPING LIST **
+d. display all items.
+a. Add an item to the list.
+e. exit.
+ENTER YOUR CHOICE .
+|: a.
+enter the item you want to add
+|: tea.
+The item has been added
+
+** SHOPPING LIST **
+d. display all items.
+a. Add an item to the list.
+e. exit.
+ENTER YOUR CHOICE .
+|: e.
+Goodbye!
+true .
 
 
